@@ -55,3 +55,15 @@ body
     text-align: center;
     padding: 0.5em;
 }
+#meme-1
+{
+    background: white;
+    padding: 1em;
+}
+#meme-1 #halo-meme
+{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;e
+}
