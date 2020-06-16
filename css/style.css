@@ -62,8 +62,18 @@ body
 }
 #meme-1 #halo-meme
 {
-    width: 500px;
+    width: 400px;
     display: block;
     margin-left: auto;
     margin-right: auto;e
+}
+#footer #twtr, #fb, #gh
+{
+    width: 30px;
+    vertical-align: middle;
+}
+#footer #gh
+{
+    width: 60px;
+    vertical-align: middle;
 }
