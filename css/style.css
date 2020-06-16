@@ -43,3 +43,13 @@ body
     text-align: center;
     padding: 0.5em;
 }
+#footer #twtr, #fb, #gh
+{
+    width: 30px;
+    vertical-align: middle;
+}
+#footer #gh
+{
+    width: 60px;
+    vertical-align: middle;
+}
