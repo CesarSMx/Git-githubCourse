@@ -4,10 +4,10 @@ This repo was created as a result of the [git and github course](https://platzi.
 
 ###Important knowledge learned in this course:
 
-- Configure my git user and emal account and other options with **git config** command.
+- Configure my git user and email account and other options with **git config** command.
 - Initiate a local git repo with **git init** command.
 - Add new file into the repo with **git add** command.
-- Manage tracked and untracked files or directorys with **git status**  and ** git diff** commands.
+- Manage tracked and untracked files or directorys with **git status**  and **git diff** commands.
 - Commit the changes in the local repository into the git tracked repository with **git commit** command.
 - Check the last commit message and changes made with **git show** command.
 - Check the history of commits or changes in the repo with **git log** command.
